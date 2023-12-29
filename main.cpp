@@ -14,9 +14,6 @@ extern "C"
 	//Define models
 	ModelInfo* MDLExampleHat;
 
-	//create a UID for your accessory
-	int ExampleAccessoryID;
-
 	//Black Market Item Attributes
 	BlackMarketItemAttributes BMExampleHat = { 1000, 500, 0, -1, -1, 0 };
 
